@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#ob{
+    font-family: 'Caveat Brush', cursive;
+    color: black;
+}
+a{
+    color: red;
+    font-size: 60px;
+}
